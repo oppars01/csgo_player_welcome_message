@@ -1,4 +1,4 @@
-# CS:GO Player Welcome Message (CS:GO Oyuncu Giriş Mesajı)
+# CS:GO Player Welcome Message (CS:GO Oyuncu Hoşgeldin Mesajı)
 
 **[EN]** 
 3 seconds after a player logs into the server and joins a team for the first time, a welcome message is shown on their screen. You can show this message at the top or in the middle with the help of CVAR.
