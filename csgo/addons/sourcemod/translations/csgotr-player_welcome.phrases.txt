@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"Welcome Message"
+	{
+		"#format" 		"{1:N}"
+        "en"			"<font class='fontSize-xxl'><font color='#FF5733'>{1}</font> Welcome to Server</font>"
+		"tr"			"<font class='fontSize-xxl'><font color='#FF5733'>{1}</font> Sunucuya Hoşgeldin</font>"
+    }
+}
