@@ -8,7 +8,6 @@
 --------------------
 
 **[TR]**
-
 Bir oyuncu sunucuya giriş yaptıktan sonra ilk kez bir takıma girdikten 3 saniye sonra ekranında hoşgeldin mesajı gösterilir. Bu mesajı CVAR yardımı ile üstte veya orta kısımda gösterebilirsiniz.
 
 ![TOP](https://github.com/tncykrkyl/csgo_player_welcome_message/raw/main/images/top.png)
